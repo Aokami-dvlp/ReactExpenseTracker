@@ -4,7 +4,7 @@ logs
 **/*.backup.*
 **/*.back.*
 
-myapp/node_modules
+node_modules
 bower_components
 
 *.sublime*
